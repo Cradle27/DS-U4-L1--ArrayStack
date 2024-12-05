@@ -1,0 +1,9 @@
+To restrict access from parts of the code that does not need it but may try to use it
+
+To save processing time in the __len__() function
+
+To display errors in a much more simplier way that does not end the programmer
+
+the notation and complexity is O(1). It is efficent because the last element is the newest.
+
+where you test the smallest functional unit. the test code does unit testing aswell. it is important in this lab due to how complicated testing larger units can be.
